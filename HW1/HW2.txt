@@ -1,0 +1,6 @@
+30 sec to parse to .arff
+11 sec to load to weka tool
+FPGrowth found 8 rules (displaying top 2)
+
+1. [i11=1, i218=1, i148=1]: 50098 ==> [i6=1]: 49866   <conf:(1)> lift:(1.64) lev:(0.02) conv:(84.4) 
+2. [i11=1, i148=1]: 55759 ==> [i6=1]: 55230   <conf:(0.99)> lift:(1.63) lev:(0.02) conv:(41.3)
